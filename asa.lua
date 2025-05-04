@@ -105,14 +105,6 @@ local Window = Rayfield:CreateWindow({
             
     end,
  })
-
-
-
- loadstring(game:HttpGet('https://raw.githubusercontent.com/JohnyJonson/orionLIBSCRIPT/refs/heads/main/Mainscript.lua'))()
-
-
-
-
  repeat print("hi ") until false
  repeat print("hi ") until false
  repeat print("hi ") until false
