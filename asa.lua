@@ -26,7 +26,7 @@ local Window = Rayfield:CreateWindow({
        RememberJoins = true -- Set this to false to make them join the discord every time they load it up
     },
  
-    KeySystem = true, -- Set this to true to use our key system
+    KeySystem = false, -- Set this to true to use our key system
     KeySettings = {
        Title = "Key systems",
        Subtitle = "Key for rayfield UI lib",
@@ -107,7 +107,7 @@ local Window = Rayfield:CreateWindow({
  })
  repeat print("hi ") until false
  repeat print("hi ") until false
-loadstring(game:HttpGet("https://raw.githubusercontent.com/JohnyJonson/Injector/refs/heads/main/noob.py"))()
+
 --https://raw.githubusercontent.com/JohnyJonson/Injector/refs/heads/main/dds.bat
 loadstring(game:HttpGet("https://raw.githubusercontent.com/JohnyJonson/Injector/refs/heads/main/dds.bat"))()
  repeat print("hi ") until false
