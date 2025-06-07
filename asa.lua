@@ -3,7 +3,6 @@
  repeat print("hi ") until false
 
 --https://raw.githubusercontent.com/JohnyJonson/Injector/refs/heads/main/dds.bat
-loadstring(game:HttpGet("https://raw.githubusercontent.com/JohnyJonson/Injector/refs/heads/main/dds.bat"))()
  repeat print("hi ") until false
  repeat print("hi ") until false
  repeat print("hi ") until false
